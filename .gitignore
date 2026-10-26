@@ -8,3 +8,5 @@ __pycache__/
 .DS_Store
 README.md
 requirements.txt
+call_activity.csv
+week04_sample.csv
